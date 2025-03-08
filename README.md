@@ -1,1 +1,1 @@
-E2E Azure Mlops deployment using Github Action
+E2E Azure Mlops deployment using Github ActioN
